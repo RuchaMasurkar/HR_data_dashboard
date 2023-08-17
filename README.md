@@ -1,4 +1,4 @@
-# daprojects
+# HR data dashboard
 HR data dashboard was created using MySQL for cleaning and PowerBI for visualization
 
 ![image](https://github.com/RuchaMasurkar/daprojects/assets/142481793/a033648a-d3a7-4c62-acc7-55247e5cc69d)
