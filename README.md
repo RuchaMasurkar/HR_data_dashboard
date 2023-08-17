@@ -23,8 +23,7 @@ Questions
 7) How does the gender disribution of job titles across the company?
 8) Which department has highest turnover rate?
 9) What is the distribution of employees across locations by city and state?
-10) How has the company's employee count changed over time based on hire and termination dates?
-11) What is the tenure distribution for each department? 
+10) How has the company's employee count changed over time based on hire and termination dates? 
 
 Findings
 Male emplyoee count is higher then female employee count in the company.
@@ -35,4 +34,24 @@ In the age group of 25 - 34 female employee count is the highest and in the age 
 Age group of 35 - 44 has the highest number of male employee count and least number of count is present in age group of 55 - 64.
 
 Higher number of people are working in Headquarter office compared to people working remotely.
+
+Average length of terminated employees is 8 years.
+
+Male employee number is sligtly higher then female employees across the departments.
+
+Auditing department has the highest turnover rate followed by Legal department and Business development and markeing department have the least number of turnover.
+
+Highest number of employees are from Ohio state.
+
+Average length of terminated employees is 8 years.
+
+The company's employee count change has increased over the years.
+
+Limitations
+
+Some termination dates provided in data were of future. 
+
+Negaive ages were reflecting in the data. These records were excluded and only employees above 18 years of age were considered.
+
+
 
