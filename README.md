@@ -26,3 +26,13 @@ Questions
 10) How has the company's employee count changed over time based on hire and termination dates?
 11) What is the tenure distribution for each department? 
 
+Findings
+Male emplyoee count is higher then female employee count in the company.
+
+White race count is the highest and Native Hawaiian or other Pacific Islander race has the least number of count in the company.
+
+In the age group of 25 - 34 female employee count is the highest and in the age group of 55 - 64 there is least number of female count.
+Age group of 35 - 44 has the highest number of male employee count and least number of count is present in age group of 55 - 64.
+
+Higher number of people are working in Headquarter office compared to people working remotely.
+
